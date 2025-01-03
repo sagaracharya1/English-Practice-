@@ -249,7 +249,14 @@ Here, She is used by Brian to refer to Sophie. Instead of repeating Sophie's nam
 She's
  the person to go to if you need help!
 
-65.
+65.Hi, everyone. My name is Alice and I'm happy to be part of the team.
+Sentences with the verb to be are often used to describe feelings and emotions. In the present simple tense, you use it to talk about how you feel right now. For example:
+I'm excited to be part of the team. (The person is expressing their current positive feelings)
+
+66.I'm a programmer and I love creating software that helps people in their daily activities.
+" Daily activities " refer to the things that people do on a regular basis in their everyday lives, such as eating, working, studying, or exercising.
+
+67.In my previous job, I developed mobile apps for small businesses.
 
 
 
