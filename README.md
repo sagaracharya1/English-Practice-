@@ -291,8 +291,29 @@ Junior Accountant: An entry-level position in accounting.
 Lead Engineer: A top-level engineering role with leadership responsibilities.
 Senior Manager: A managerial role with significant experience.
 
+71.The " phrase has been " is used in English to talk about something that started in the past and is still happening now. It is often used with expressions of time. For example: She has been with the company for ten years means that this person started working at the company ten years ago and is still working there.
 
+"" Several "" is a word used to indicate an unspecified quantity that is more than two but not many. It's often used when the exact number is not important or not known.(Working on a few projects, more than two but not many.)
 
+72. A "atabase administrator" is a professional responsible for managing and maintaining databases. They ensure that data is secure (safe from unauthorized access) and efficient (easily accessible and usable). This role is crucial in any organization that handles large amounts of data.
+
+73.He's can be a short form for he has or he is. You can understand which one it is by looking at the context. When he's is followed by a verb in the past participle (like been, done, seen), it means he has. For 
+example:
+He's been working means he has been working.
+If he's is followed by an adjective or a present participle (like tired, going, sleeping), it means he is. For example:
+He's tired means he is tired. Understanding this helps you know exactly what someone means when they say he's.
+
+74.Join and joined are different forms of the same verb. Join is the base form, used for the present tense or imperative. Joined is the past tense, used for actions completed in the past.
+ex:
+She joined the team last year.
+
+75.Last year refers to the year before the current one. For example, if it is 2043 now, last year was 2042. This year refers to the current year, 2043 in this example.
+Next year will be the year after the current one, which would be 2044 in this case. Understanding these expressions helps in placing events correctly in time.
+
+76.Great! Thanks, everybody! Well, 
+I'm  Alice. I'm starting as a junior developer today.
+
+77.
 
 
 
